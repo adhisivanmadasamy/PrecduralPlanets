@@ -16,7 +16,7 @@ public class ShapeGenerator
         for( int i = 0; i < noiseFilters.Length; i++ )
         {
             noiseFilters[i] = NoiseFilterFactory.CreateNoiseFilter(settings.noiseLayers[i].noiseSettings);
-            Debug.Log("New filter added");
+            
 
         }
         elevationMinMax = new MinMax();

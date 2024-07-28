@@ -15,14 +15,13 @@ public class GeneratePlanet : MonoBehaviour
 
     public void SetShape()
     {
-        shapeSettings.planetRadius = (int)Random.Range(1,8);
+        shapeSettings.planetRadius = (int)Random.Range(4,8);
         AddNoiseLayers(shapeSettings);
         planet.GeneratePlanet();
     }
 
     public void SetColor()
-    {
-        
+    {        
         planet.GeneratePlanet();
     }
 
@@ -30,7 +29,7 @@ public class GeneratePlanet : MonoBehaviour
     {
         var newNoiseLayers = new ShapeSettings.NoiseLayer[3];
 
-        newNoiseLayers[0] = AddSingleNoiseLayer(shapeSettings, false, "Simple", (int)Random.Range(3,7), (float)Random.Range(0.1f, 7f), (float)Random.Range(0.1f, 0.4f), (float)Random.Range(0.01f, 0.1f), (float)Random.Range(1f, 8f), (float)Random.Range(0.7f, 0.95f), new Vector3((float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f)));
+        newNoiseLayers[0] = AddSingleNoiseLayer(shapeSettings, false, "Simple", (int)Random.Range(3,5), (float)Random.Range(0.1f, 2.5f), (float)Random.Range(0.1f, 0.6f), (float)Random.Range(0.01f, 0.1f), (float)Random.Range(1f, 8f), (float)Random.Range(0.7f, 0.95f), new Vector3((float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f)));
         newNoiseLayers[1] = AddSingleNoiseLayer(shapeSettings, true, "Simple", (int)Random.Range(1, 4), (float)Random.Range(0.05f, 3f), (float)Random.Range(0.05f, 0.3f), (float)Random.Range(1f, 1.6f), (float)Random.Range(1f, 8f), (float)Random.Range(0.4f, 0.85f), new Vector3((float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f)));
         newNoiseLayers[2] = AddSingleNoiseLayer(shapeSettings, true, "Rigid", (int)Random.Range(1, 2), (float)Random.Range(0.1f, 3f), (float)Random.Range(0f, 0.2f), (float)Random.Range(1f, 5f), (float)Random.Range(0f, 1f), (float)Random.Range(0.4f, 0.85f), new Vector3((float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f), (float)Random.Range(-0.25f, 0.25f)));
                     

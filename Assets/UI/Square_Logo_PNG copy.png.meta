@@ -1,0 +1,2212 @@
+fileFormatVersion: 2
+guid: b0ecce9e7b69c8246b773fb52ac14496
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 763
+        width: 1374
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad92ba820dbe8be49a3c274e1b499579
+      internalID: 301225446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9057a562b2a2324ea0f6b08c7276018
+      internalID: 989616948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe02063df800e4d97072f6b369e1dc
+      internalID: -1737538347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1ec90fe80bbe41b82368801783041
+      internalID: 1272479877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c06041782503394bb208ac5a715cec9
+      internalID: -1676196693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583ed8ec67ebb514e908106a38f25d35
+      internalID: 110825938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7283c6e0ddf87649864ff960624ada4
+      internalID: -767329258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f6ea8611914b4fa8588164f8e26e6
+      internalID: -1310261928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5dae263216ba54e8c4a8a5c6558768
+      internalID: -208114357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ee83298457fe48aadfd14e94e711d
+      internalID: -1097944144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd285911ea75d4eb5e553db962e6c6
+      internalID: 2076759717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4836474b6c66743bb395fe5ee4b80d
+      internalID: 1715441510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ddd320a8c876444b3a38cb0bf93cda
+      internalID: 287676004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22d1ef87b66e343b771f3174daa651
+      internalID: -2077140275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f0b387dd99a44597623c07bb7cb2f
+      internalID: 1436526775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16b45faea52af84c9871eff9b374b70
+      internalID: -256801230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00770c98cda66b546be91f2018d2fb71
+      internalID: 1560819539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105bdaca4d71eb9468cdf5803bf444cb
+      internalID: 947706260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_18
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f76d8291370d1428aaf325f325089e
+      internalID: -2095313320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10146a86f8c71a047baf9b255401d737
+      internalID: -1974008052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_20
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627387c6ba7f3649906e3085aee204a
+      internalID: 613725498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_21
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fbfdcf1accb76498aabbc5b7c4d070
+      internalID: -1371309217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d8b5d2ad053b45afd70c9d5636123
+      internalID: 1614580890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905337c830bb594299648fd9eb9eed9
+      internalID: 1762802009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c80fe0926ea14ea94a81cfbe42a7b
+      internalID: 1688094843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2de9a32ca306e4caac7f41d153fb0d
+      internalID: -858978245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f4a4e5af7e28b4f8064a69e0c184f9
+      internalID: -754470421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf841d20cba994a81d4ea3f1eaafc7
+      internalID: -675337735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97615b275b311044db1d78e6e4276fae
+      internalID: 1192905287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a6f8fb30dbd644ac1904a47d7cc4c
+      internalID: 1836316170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc29cfee4674fb4f8fdfc34bf80f8da
+      internalID: -4346010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ba3cd8b4f9d24cb04cb0a0f3ebece
+      internalID: 303397898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8f51dad439e514c8406705be83f763
+      internalID: 2084442941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08cbae8b96540a4a8d132f3cd59a75c
+      internalID: -452582049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362e51f2a2156f418f91fc1b4df7880
+      internalID: 154875100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_35
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dc6ea8dd805b6409b9ff3c3dfd80fa
+      internalID: -2071512476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a97e9af7d6100479c7d13da541ea50
+      internalID: -1076770997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba40453bbeb08640a7662b1fcd2e30a
+      internalID: -486415349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_38
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9586684cb31db4ba5c31fc487ad7e4
+      internalID: 1048046627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_39
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b287adf9859cd4791f772fb3954286
+      internalID: -943752313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_40
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e7246decf3d9148b892fc0a01cb1f0
+      internalID: 668404512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1040
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66edeb1e1e53dd74aaac9bd02dcfd18f
+      internalID: -1576372537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a95b8afa2b21a5439e59e625e9cb20b
+      internalID: 799259721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382702fa863ea994ebe947ea2c8c90df
+      internalID: -794377125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26d503820fc794cacf66ff6bb124f5
+      internalID: -304278152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83324fdd6bdf6e64baf29a2de1ec7520
+      internalID: 1979707783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2df3fcb413a4c4b81114b5dc9cd547
+      internalID: 492032949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d902b68dd68443b4de640bc19847d
+      internalID: -191913892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fed0a97ec970e4a932c8dfa9350118
+      internalID: 1606265353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a336ae91606f49b5fff7a9eb4559c
+      internalID: -1462675165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_50
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d244288c508cde4479fecc0883d139c6
+      internalID: -1611086345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff77de12c1d8c74380303c5b2a2403a
+      internalID: 30791835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_52
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a47258c8887bb418556b10e149853a
+      internalID: 598273469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0946bb0b925f4589f06b4d8e9352c
+      internalID: -73950958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_54
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f16f3e5c985364392c540a1f01aeed
+      internalID: -2035283010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5c94694dd1fa4a93cf816d0defbd0
+      internalID: -1484897482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_56
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b126b480d278654587c093f2700c45c
+      internalID: -974436818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_57
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fccc3df2349c074294d599d6f03f7ad
+      internalID: 1714174342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_58
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a140e70c9cbb43243abea22248212ffc
+      internalID: 787371080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0204a1672c2264f889c86716f10f21
+      internalID: 1565955539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_60
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59468e886b55db47b767c665fc71260
+      internalID: 597426072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93574dec64cefe941bb9dc5dd53d89e8
+      internalID: 838781475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0746101a97b7074fa7c800b5d297548
+      internalID: -1076134402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ca98b67372dc4bae234d57af61c2f
+      internalID: -1953401540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656364a27c23b444b2c8db2b12675f3
+      internalID: -761214775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0bf6b3df042d54283e3929a8fcb014
+      internalID: 1566154926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7bca0c0e7fba94c991c68fd80e3a3b
+      internalID: -1048517726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08239bc33d20a499cff39e4363ebef
+      internalID: -1499450259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92698b6ca4f8a374290132808cf46e7a
+      internalID: -1842932731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf13fc4a72f7c346aaf6051fd353c88
+      internalID: 832558967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a947993bb0b5140805b969a5cebe3f
+      internalID: -1606134140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_71
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea1942afdef9e4bb447d813ee1919d
+      internalID: 49984965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_72
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497a090d57f51c64c8d34150465ca51f
+      internalID: -686253671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_73
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3120821ada3d04b8d6de48f68c8fd4
+      internalID: 446794589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_74
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2966e939d89184b85f6bb8aa350754
+      internalID: -1064645208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_75
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857d9b8d8f71ba458c7ab1d7bf1e1e6
+      internalID: 1871662898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_76
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bfc99633e9d234dbc15378aaa73343
+      internalID: 887295658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_77
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb48e0d368529a4fae3a33a89fcb347
+      internalID: -1213624842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_78
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 912
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a0014e510d1d444ae538f5ea4acba2
+      internalID: -653406261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_79
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3dd42e3a917f24d8e24a7d03f727e3
+      internalID: 1350693781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535f289fad4b0040b51e33e292b7451
+      internalID: 909220021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_81
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee7687bb120dc5468b483ca3af88bab
+      internalID: -1319473063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_82
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f041c68dcbbe8418c86ac121bd82b8
+      internalID: 977618964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_83
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f89d1c0e2e4c64398cdc8e411919ee
+      internalID: -1756897179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_84
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890debb490da8347b903a045c369371
+      internalID: 310826576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_85
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 848
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1719ccdd7abe479559759d62e2c85
+      internalID: -1514466554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_86
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1725fecad31f39e41947bf092b934941
+      internalID: 328537455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_87
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5122c0b2e6554de4ba4658797d7866c7
+      internalID: 1569126191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_88
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364045512c4eeea44953384fb10dfe0d
+      internalID: -32389110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bfc4933271a845b3453150355a183
+      internalID: -993646691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_90
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebbe308c0973e84d9a7aacd33d48498
+      internalID: -24809895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_91
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf98bdf3a8011f47b7102480b6f1292
+      internalID: -321281038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square_Logo_PNG copy_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 784
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace6e1664e11e204bad469619a04b440
+      internalID: -1953893592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Square_Logo_PNG copy_0: 301225446
+      Square_Logo_PNG copy_1: 989616948
+      Square_Logo_PNG copy_10: 2076759717
+      Square_Logo_PNG copy_11: 1715441510
+      Square_Logo_PNG copy_12: 287676004
+      Square_Logo_PNG copy_13: -2077140275
+      Square_Logo_PNG copy_14: 1436526775
+      Square_Logo_PNG copy_15: -256801230
+      Square_Logo_PNG copy_16: 1560819539
+      Square_Logo_PNG copy_17: 947706260
+      Square_Logo_PNG copy_18: -2095313320
+      Square_Logo_PNG copy_19: -1974008052
+      Square_Logo_PNG copy_2: -1737538347
+      Square_Logo_PNG copy_20: 613725498
+      Square_Logo_PNG copy_21: -1371309217
+      Square_Logo_PNG copy_22: 1614580890
+      Square_Logo_PNG copy_23: 1762802009
+      Square_Logo_PNG copy_24: 1688094843
+      Square_Logo_PNG copy_25: -858978245
+      Square_Logo_PNG copy_26: -754470421
+      Square_Logo_PNG copy_27: -675337735
+      Square_Logo_PNG copy_28: 1192905287
+      Square_Logo_PNG copy_29: 1836316170
+      Square_Logo_PNG copy_3: 1272479877
+      Square_Logo_PNG copy_30: -4346010
+      Square_Logo_PNG copy_31: 303397898
+      Square_Logo_PNG copy_32: 2084442941
+      Square_Logo_PNG copy_33: -452582049
+      Square_Logo_PNG copy_34: 154875100
+      Square_Logo_PNG copy_35: -2071512476
+      Square_Logo_PNG copy_36: -1076770997
+      Square_Logo_PNG copy_37: -486415349
+      Square_Logo_PNG copy_38: 1048046627
+      Square_Logo_PNG copy_39: -943752313
+      Square_Logo_PNG copy_4: -1676196693
+      Square_Logo_PNG copy_40: 668404512
+      Square_Logo_PNG copy_41: -1576372537
+      Square_Logo_PNG copy_42: 799259721
+      Square_Logo_PNG copy_43: -794377125
+      Square_Logo_PNG copy_44: -304278152
+      Square_Logo_PNG copy_45: 1979707783
+      Square_Logo_PNG copy_46: 492032949
+      Square_Logo_PNG copy_47: -191913892
+      Square_Logo_PNG copy_48: 1606265353
+      Square_Logo_PNG copy_49: -1462675165
+      Square_Logo_PNG copy_5: 110825938
+      Square_Logo_PNG copy_50: -1611086345
+      Square_Logo_PNG copy_51: 30791835
+      Square_Logo_PNG copy_52: 598273469
+      Square_Logo_PNG copy_53: -73950958
+      Square_Logo_PNG copy_54: -2035283010
+      Square_Logo_PNG copy_55: -1484897482
+      Square_Logo_PNG copy_56: -974436818
+      Square_Logo_PNG copy_57: 1714174342
+      Square_Logo_PNG copy_58: 787371080
+      Square_Logo_PNG copy_59: 1565955539
+      Square_Logo_PNG copy_6: -767329258
+      Square_Logo_PNG copy_60: 597426072
+      Square_Logo_PNG copy_61: 838781475
+      Square_Logo_PNG copy_62: -1076134402
+      Square_Logo_PNG copy_63: -1953401540
+      Square_Logo_PNG copy_64: -761214775
+      Square_Logo_PNG copy_65: 1566154926
+      Square_Logo_PNG copy_66: -1048517726
+      Square_Logo_PNG copy_67: -1499450259
+      Square_Logo_PNG copy_68: -1842932731
+      Square_Logo_PNG copy_69: 832558967
+      Square_Logo_PNG copy_7: -1310261928
+      Square_Logo_PNG copy_70: -1606134140
+      Square_Logo_PNG copy_71: 49984965
+      Square_Logo_PNG copy_72: -686253671
+      Square_Logo_PNG copy_73: 446794589
+      Square_Logo_PNG copy_74: -1064645208
+      Square_Logo_PNG copy_75: 1871662898
+      Square_Logo_PNG copy_76: 887295658
+      Square_Logo_PNG copy_77: -1213624842
+      Square_Logo_PNG copy_78: -653406261
+      Square_Logo_PNG copy_79: 1350693781
+      Square_Logo_PNG copy_8: -208114357
+      Square_Logo_PNG copy_80: 909220021
+      Square_Logo_PNG copy_81: -1319473063
+      Square_Logo_PNG copy_82: 977618964
+      Square_Logo_PNG copy_83: -1756897179
+      Square_Logo_PNG copy_84: 310826576
+      Square_Logo_PNG copy_85: -1514466554
+      Square_Logo_PNG copy_86: 328537455
+      Square_Logo_PNG copy_87: 1569126191
+      Square_Logo_PNG copy_88: -32389110
+      Square_Logo_PNG copy_89: -993646691
+      Square_Logo_PNG copy_9: -1097944144
+      Square_Logo_PNG copy_90: -24809895
+      Square_Logo_PNG copy_91: -321281038
+      Square_Logo_PNG copy_92: -1953893592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
